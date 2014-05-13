@@ -1,9 +1,10 @@
 {
   "name": "meter",
   "version": "0.1.4",
-  "description": "Simple Request Throttling",
+  "description": "An Express middleware for simple request throttling",
   "keywords": [
-    "throttle"
+    "throttle",
+	"middleware"
   ],
   "dependencies": {},
   "scripts": {
