@@ -1,6 +1,6 @@
 {
   "name": "meter",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "An Express middleware for simple request throttling",
   "keywords": [
     "throttle",
