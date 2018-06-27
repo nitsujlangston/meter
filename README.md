@@ -2,7 +2,7 @@ Meter
 ==========================
 A middleware for limiting number of requests per second to an HTTP server from a given client IP address. Can be used anywhere that the (req, res, next) signature is used.
 
-###Usage
+### Usage
     var express = require('express');
     var app = express();
 
@@ -18,6 +18,6 @@ A middleware for limiting number of requests per second to an HTTP server from a
         res.send('Hey');
     });
     
-###Options
+### Options
 	rate - reqs/sec - default 25
 	
